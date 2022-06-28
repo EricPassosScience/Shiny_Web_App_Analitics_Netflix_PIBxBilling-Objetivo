@@ -2,7 +2,7 @@
 
 Nosso objetivo é trabalhar com dados de sete fontes diferentes, limpar, organizar e combinar esses dados,  e  então  construir  um  web  app  de dashboard  analítico  para  compreender  a  relação  do  faturamento  da  Netflix  com  o  PIB e indicadores de desigualdade social de cada país onde a Netflix opera, além de outras análises.
 
-Dados do IMDB fonte: https://www.imdb.com/interfaces/
+Dados do IMDB fonte: https://www.imdb.com/interfaces/  ######### Arquivo grande de mais para upload no git ############33
 
 Dados da Netflix: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
 
