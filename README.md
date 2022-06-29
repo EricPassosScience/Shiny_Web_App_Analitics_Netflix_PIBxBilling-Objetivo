@@ -17,3 +17,9 @@ Dados de Assinantes da Netflix: https://www.comparitech.com/tv-streaming/netflix
 Dados de Country Code: https://www.kaggle.com/andradaolteanu/iso-country-codes-global
 
 Para tanto, utilizaremos um importantíssimo pacote disponibilizado para o RStudo, o Shiny. 
+
+ESPAÑOL:
+
+Nuestro objetivo es trabajar con datos de siete fuentes diferentes, limpiar, organizar y combinar esos datos, y luego crear una aplicación web de tablero analítico para comprender la relación entre los ingresos de Netflix y el PIB y los indicadores de desigualdad social para cada país donde opera Netflix, además a otros analisis.
+
+Para ello, utilizaremos un paquete muy importante disponible para RStudo, Shiny.
