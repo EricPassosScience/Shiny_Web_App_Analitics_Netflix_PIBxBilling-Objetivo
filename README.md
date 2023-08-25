@@ -1,25 +1,50 @@
-# Web_App_Dashboard_Analitico_relacao_faturamento_x_PIB
+# Shiny_Web_App_Analitics_Netflix_PIBxBilling
 
-Nosso objetivo é trabalhar com dados de sete fontes diferentes, limpar, organizar e combinar esses dados,  e  então  construir  um  web  app  de dashboard  analítico  para  compreender  a  relação  do  faturamento  da  Netflix  com  o  PIB e indicadores de desigualdade social de cada país onde a Netflix opera, além de outras análises.
+## Objetivo
+El objetivo es trabajar con datos de siete fuentes diferentes, limpiar, organizar y combinar estos datos, y luego construir una aplicación web de panel analítico para comprender la relación de los ingresos de Netflix con el PIB y los indicadores de desigualdad social en cada país donde opera Netflix, en además de otros análisis.
 
-Dados do IMDB fonte: https://www.imdb.com/interfaces/  ######### Arquivo grande de mais para upload no git ############33
+## Fuente de datos
 
-Dados da Netflix: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
+Datos de IMDB -> fuente: https://www.imdb.com/interfaces/  ######### Archivo demasiado grande para cargarlo en git ############33
 
-Dados do PIB: https://data.worldbank.org/indicator/
+Datos de  Netflix: https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
 
-Dataset da Desigualdade social: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
+Datos de  PIB: https://data.worldbank.org/indicator/
+
+Conjunto de datos sobre desigualdad social: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
 
 Top 10 Netflix: https://top10.netflix.com/
 
-Dados de Assinantes da Netflix: https://www.comparitech.com/tv-streaming/netflix-subscribers/
+Datos de suscriptores de Netflix: https://www.comparitech.com/tv-streaming/netflix-subscribers/
 
-Dados de Country Code: https://www.kaggle.com/andradaolteanu/iso-country-codes-global
+Datos de Country Code: https://www.kaggle.com/andradaolteanu/iso-country-codes-global
 
-Para tanto, utilizaremos um importantíssimo pacote disponibilizado para o RStudo, o Shiny. 
+Usaremos un paquete muy importante disponible para RStudo, Shiny.
 
-ESPAÑOL:
+## Página de inicio
+![imagem](https://github.com/EricPassosScience/PySpark_Streaming_Kafka_Recommendation_System/assets/97414922/b4b7d030-5267-4a21-a01b-4ac2a4b5ed03)
 
-Nuestro objetivo es trabajar con datos de siete fuentes diferentes, limpiar, organizar y combinar esos datos, y luego crear una aplicación web de tablero analítico para comprender la relación entre los ingresos de Netflix y el PIB y los indicadores de desigualdad social para cada país donde opera Netflix, además a otros analisis.
+En la página de inicio, al seleccionar la opción "Visão Geral", podemos ver un histograma que muestra la relación entre los ingresos de Netflix y el PIB de los países.
 
-Para ello, utilizaremos un paquete muy importante disponible para RStudo, Shiny.
+Además, aún podemos seleccionar el eje y del gráfico, indicando el plan de precio de suscripción entre otra información importante.  Y también si el gráfico mostrará los valores atípicos. 
+
+## Desigualdad Salarial
+![imagem](https://github.com/EricPassosScience/PySpark_Streaming_Kafka_Recommendation_System/assets/97414922/302002ac-e9e8-420e-9c38-f4cc30dd49a5)
+
+En esta página podemos ver la disparidad de ingresos y las diferencias en los precios de las suscripciones Basic, Standard y Premium.
+
+## Género Cinematográfico Más Popular
+![imagem](https://github.com/EricPassosScience/PySpark_Streaming_Kafka_Recommendation_System/assets/97414922/b2fea7e8-fdaa-4e2e-8a27-f0871a4b2a93)
+
+Según la cantidad de veces que una película o programa de televisión de un género determinado ha estado en el Top 10 semanal de Netflix en un país (datos de junio de 2021 a marzo de 2022).
+
+También podemos seleccionar el país a través del cuadro de la izquierda.
+
+## Suscriptores de Netflix
+Mapa global de números de suscriptores de Netflix
+![imagem](https://github.com/EricPassosScience/PySpark_Streaming_Kafka_Recommendation_System/assets/97414922/8b2e05f6-87ac-4507-b011-03f8a5177a62)
+
+
+Cualquier pregunta, por favor contácteme en -> https://www.linkedin.com/in/eric-passos-34a7881a3/
+
+
